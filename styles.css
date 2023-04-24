@@ -4,6 +4,8 @@ body{
 }
 .div{
 	background-color:white;
+	border-radius:5px;
+	color:white;
 }
 .library{
 	color:#ffffff;
